@@ -242,7 +242,7 @@ fun buttonSignIn(context: Context) {
             .fillMaxWidth()
             .padding(horizontal = 16.dp, vertical = 8.dp)
     ) {
-        Text(text = "Войти", fontSize = 14.sp)
+        Text(text = "Выйди нахуй отсюда", fontSize = 14.sp)
     }
 }
 
